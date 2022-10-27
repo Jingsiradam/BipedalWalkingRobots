@@ -1,7 +1,6 @@
-# Bipedal Walking Robots//zhuzhu
-
----sss
-
+# Bipedal Walking Robots
+# zhuzhu
+- pytho
 Required enverionments:
 jsjsjjsjsjjs
 - Python 3.6 +
@@ -30,7 +29,7 @@ The calculation for LIPM is implemented with Python 3.6, given different target 
 
 1.2.1 Giving a zero target orbital energy.
 
-<img src="pic/LIPM_double_legs_OE0.gif" alt="LIPM_double_legs_OE0" style="zoom:50%;" />
+<img src="pic/LIPM_double_legs_OE0.gif" alt="LIPM_double_legs_OE0" style="zoom:100%;" />
 
 1.2.2 Giving a positive target orbital energy.
 
@@ -50,7 +49,11 @@ Run the script in 'LIPM/LIPM_ik_test.py', you can get the following result:
 
 <img src="pic/LIPM_ik.gif" alt="LIPM_ik" style="zoom:50%;" />
 
-<img src="pic/LIPM_ik_joint_limitation.gif" alt="LIPM_ik_joint_limitation" style="zoom:50%;" />
+
+
+<img src="pic/LIPM_ik_joint_limitation.gif" alt="LIPM_ik_joint_limitation" style="zoom:100%;" />
+
+<img src="pic/LIPM_3D_forward.gif" alt="LIPM_ik_joint_limitation" style="zoom:100%;" />
 
 ### 2.2 Plot with VREP (CoppliaSim)
 
